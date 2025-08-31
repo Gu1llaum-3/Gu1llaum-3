@@ -14,7 +14,7 @@
 
 ⚙️ I enjoy designing **high availability environments**, automating workflows, experimenting with new DevOps tools, and developing web applications for internal projects.
 
-📊 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1llaum-3&theme=transparent&show_icons=true&hide_border=true&layout=compact" width="45.53%" alt="Language stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1llaum-3&theme=transparent&show_icons=true&hide_border=true&layout=compact" width="45.53%" alt="Language stats" />
 
 ---
 
